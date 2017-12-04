@@ -1,0 +1,17 @@
+{
+  "name": "msc-plugin-mongodb",
+  "version": "0.0.1",
+  "description": "",
+  "main": "source/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mujichOk",
+  "license": "ISC",
+  "peerDependencies": {
+    "msc-core": "file://..//msc-core"
+  },
+  "dependencies": {
+    "mongodb": "2.2.33"
+  }
+}
